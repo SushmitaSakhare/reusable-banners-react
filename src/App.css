@@ -19,7 +19,7 @@ body {
   height: 100vh;
 }
 
-.banner-cards-list {
+.banner-cards-container {
   display: flex;
   flex-direction: column;
   align-items: center;

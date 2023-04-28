@@ -23,14 +23,14 @@
 .heading {
   color: #326a9d;
   font-family: 'roboto';
-  font-size: 28px;
+  font-size: 32px;
   font-weight: bold;
 }
 
 .description {
   color: #64748b;
   font-family: 'roboto';
-  font-size: 15px;
+  font-size: 18px;
   margin-top: 20px;
 }
 
@@ -38,7 +38,7 @@
   background-color: #ffffff;
   color: #326a9d;
   font-family: 'roboto';
-  font-size: 12px;
+  font-size: 15px;
   font-weight: bold;
   border: 1px;
   border-color: #326a9d;
@@ -53,8 +53,7 @@
   border-style: solid;
   border-radius: 8px;
   width: 100%;
-  max-width: 1100px;
-  padding: 30px;
+  padding: 25px;
   margin-bottom: 10px;
   list-style-type: none;
 }
